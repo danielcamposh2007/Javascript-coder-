@@ -1,4 +1,4 @@
-nombre = prompt("Por favor, ingresa tu nombre para comenzar el quiz:");
+let nombre = prompt("Por favor, ingresa tu nombre para comenzar el quiz:");
 
 alert(`Hola ${nombre}, bienvenido al Quiz de Conocimientos Generales! Responde las preguntas y descubre tu puntaje al final.`);
 
